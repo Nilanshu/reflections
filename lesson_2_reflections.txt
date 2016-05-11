@@ -6,3 +6,13 @@ staging area contains files to be committed to the repository after some changes
 
 How can you use the staging area to make sure you have one commit per logical change?
 We can check how many files are staged and can make more than one commits if there are different number of files.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When using experimental features. Branches will not disturb the main working application.
+
+How do the diagrams help you visualize the branch structure?
+It shows how many commits were made and which commit was common to master.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: Git handle most part of the headache of including different additions of code manually.
+Cons: Sometimes there might be conflicting codes where we need to do it manually.
