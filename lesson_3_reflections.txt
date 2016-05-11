@@ -10,4 +10,7 @@ clones - clones a repository online or local to a local directory
 branches - creates a banches along with masteer branch in which changes can be made locally.
 forks can be used when we want to modify an open source project through our own repository
 clones are used when we want to make changes locally
-branches are used when many people are working on a project and experimental changes are to be made. 
+branches are used when many people are working on a project and experimental changes are to be made.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It makes updating the online branch easier as their might be conflicting changes made to the GitHub repository. 
