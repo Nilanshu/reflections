@@ -14,3 +14,6 @@ branches are used when many people are working on a project and experimental cha
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It makes updating the online branch easier as their might be conflicting changes made to the GitHub repository. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without using GitHub, it would be difficult to find changes made and even harder to fix and merge.
