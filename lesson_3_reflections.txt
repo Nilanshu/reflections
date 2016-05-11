@@ -17,3 +17,6 @@ It makes updating the online branch easier as their might be conflicting changes
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without using GitHub, it would be difficult to find changes made and even harder to fix and merge.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When we make some experimental changes. It benefits when many people are working on a project and there might be conflicting change. If changes are made directly on master branch, it makes things simple but causes problems when collaborating with others.
