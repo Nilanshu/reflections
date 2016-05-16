@@ -1,0 +1,37 @@
+{
+   "created":"2016-04-29T10:33:55+00:00",
+   "description":"small/medium/large/extra large",
+   "id":1,
+   "modified":"2016-05-11T13:43:10+00:00",
+   "name":"pizza piece",
+   "quantity":"12.0",
+   "quantity_type":"inches",
+   "resource_uri":"/api/v2/diet/container/1/",
+   "shortcode":"",
+   "subcontainer_list":[
+      {
+         "subcontainer_id":2,
+         "subcontainer_name":"medium pizza piece",
+         "subcontainer_quantity":"12.0",
+         "subcontainer_quantity_type":"inches"
+      },
+      {
+         "subcontainer_id":3,
+         "subcontainer_name":"large pizza piece",
+         "subcontainer_quantity":"14.0",
+         "subcontainer_quantity_type":"inches"
+      },
+      {
+         "subcontainer_id":4,
+         "subcontainer_name":"extra large pizza piece",
+         "subcontainer_quantity":"18.0",
+         "subcontainer_quantity_type":"inches"
+      },
+      {
+         "subcontainer_id":1,
+         "subcontainer_name":"small pizza piece",
+         "subcontainer_quantity":"10.0",
+         "subcontainer_quantity_type":"inches"
+      }
+   ]
+}
